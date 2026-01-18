@@ -6,14 +6,14 @@
 
 -----------------------------------------------------------
 
-<b> LABORATORY ACTIVITY #1 </b>
+<b> <i> LABORATORY ACTIVITY #1 </b> </i>
 
 Lab1_JavaReview.java
 -
 
 -----------------------------------------------------------
 
-LABORATORY ACTIVITY #2
+<b> <i> LABORATORY ACTIVITY #2 </b> </i>
 
 Book.java
 -
@@ -22,7 +22,7 @@ MyBooklist.java
 
 -----------------------------------------------------------
 
-LABORATORY ACTIVITY #3 & #4
+<b> <i> LABORATORY ACTIVITY #3 & #4 </b> </i>
 
 CoffeeShop.java
 -
@@ -31,14 +31,14 @@ Customer.java
 
 -----------------------------------------------------------
 
-LABORATORY ACTIVITY #5
+<b> <i> LABORATORY ACTIVITY #5 </b> </i>
 
 TeacherStudentAssignment.java
 - 
 
 -----------------------------------------------------------
 
-LABORATORY ACTIVITY #6
+<b> <i> LABORATORY ACTIVITY #6 </b> </i>
 
 AirConditioner.java
 -
@@ -57,7 +57,7 @@ Television.java
 
 -----------------------------------------------------------
 
-LABORATORY ACTIVITY #7
+<b> <i> LABORATORY ACTIVITY #7 </b> </i>
 
 OnlineOrder.java
 -
