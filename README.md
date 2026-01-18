@@ -8,7 +8,7 @@ OBJECT-ORIENTED PROGRAMMING - (DCIT 50)
 
 LABORATORY ACTIVITY #1
 Lab1_JavaReview.java
-- In this code. pogi mo talaga charles andrew leyson my baby
+-
 
 -----------------------------------------------------------
 
