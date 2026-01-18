@@ -7,12 +7,14 @@ OBJECT-ORIENTED PROGRAMMING - (DCIT 50)
 -----------------------------------------------------------
 
 LABORATORY ACTIVITY #1
+
 Lab1_JavaReview.java
 -
 
 -----------------------------------------------------------
 
 LABORATORY ACTIVITY #2
+
 Book.java
 -
 MyBooklist.java
@@ -21,6 +23,7 @@ MyBooklist.java
 -----------------------------------------------------------
 
 LABORATORY ACTIVITY #3 & #4
+
 CoffeeShop.java
 -
 Customer.java
@@ -29,12 +32,14 @@ Customer.java
 -----------------------------------------------------------
 
 LABORATORY ACTIVITY #5
+
 TeacherStudentAssignment.java
 - 
 
 -----------------------------------------------------------
 
 LABORATORY ACTIVITY #6
+
 AirConditioner.java
 -
 Device.java
@@ -53,6 +58,7 @@ Television.java
 -----------------------------------------------------------
 
 LABORATORY ACTIVITY #7
+
 OnlineOrder.java
 -
 Order.java
