@@ -6,7 +6,7 @@
 
 -----------------------------------------------------------
 
-LABORATORY ACTIVITY #1
+<b> LABORATORY ACTIVITY #1 </b>
 
 Lab1_JavaReview.java
 -
