@@ -8,7 +8,7 @@ OBJECT-ORIENTED PROGRAMMING - (DCIT 50)
 
 LABORATORY ACTIVITY #1
 Lab1_JavaReview.java
-- sjhdajhfljahdljafljf
+-
 
 -----------------------------------------------------------
 
