@@ -1,1 +1,1 @@
-
+<b> <i> This Java program simulates a simple coffee shop reward system using object-oriented programming concepts. The Customer class represents a customer with a name and reward points, and it also keeps track of the overall number of registered customers using a static variable. The class has constructors that establish clients with default parameters or given data. </b></i>
