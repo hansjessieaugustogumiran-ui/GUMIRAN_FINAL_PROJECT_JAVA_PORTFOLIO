@@ -1,1 +1,1 @@
-
+<b> <i> This Java program is a simple library management system that can accommodate up to five books and allows menu-based user interaction. The application uses arrays to store book titles and their current availability status. Viewing every book in the library, adding new books, and changing a book's status (available or borrowed) are every possibility available to users. Until the user chooses to exit, the menu displays repeatedly. </b> </i>
