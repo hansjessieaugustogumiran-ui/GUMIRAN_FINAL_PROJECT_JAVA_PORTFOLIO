@@ -1,1 +1,2 @@
 
+<b><i> This single Java application shows how classes and objects work. The Book class is used to build book objects with information like the title, author, publish date, and current page. It also has features for showing book metadata, customizing the current page, and updating a book's author. Several book objects are created and shown by the MyBookList class. Some book information has been changed, including the author and current page. </b></i>
