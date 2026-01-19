@@ -1,1 +1,2 @@
 
+<b><i> This activity defines system behavior through the use of abstract classes and interfaces. Encapsulation is accomplished via access modifiers and regulated data access. Enums are used to safely express fixed system states, and classes are arranged into packages. Collections are managed using ArrayLists and Iterators. Encapsulation is implemented by applying access modifiers and regulated data access. Enums are used for effectively expressing fixed system states, and classes are arranged into packages. Collections are controlled by ArrayList and Iterator. </b></i>
